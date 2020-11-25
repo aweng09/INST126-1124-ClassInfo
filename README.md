@@ -3,10 +3,8 @@ Program that displays schedule of INST classes by pass rate, average semester gr
 
 # Description
 
-# Installation
-
 # Updates
 
-# Issues
+# Issues & Troubleshooting
 
-# Support
+# Acknowledgements
