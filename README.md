@@ -17,6 +17,12 @@ Saving classes occurs by appending their 'call value' (leftmost number in each r
 - Finished the function_selecting and search_courses functions. Ran into issues comparing the CSV "average semester grades" and "pass rates" to the user input because we did not know they were recognized as integers instead of strings. Resolved by casting integer to user input.
 ### November 25th
 - Began the sort_courses function. Began to collect relevant data necessary for actual implementation.
+### November 29th
+- Finished the sort_courses function. Reconciled the flowchart to match our logic. Continued to collect relevant data necessary for actual implementation. 
+### November 30th
+- Implemented the while-loop for running the program continuously until it is manually quit by the user. Continued to collect relevant data necessary for actual implementation; ran into issues with finding data for pass rates, but figured out workaround w/ calculations (taking the pass rate from the most graded professor and taking the grade letters less than a C, adding them up, and subtracting from 100).
+### December 1st
+- Finished the save_courses function and reconciled the flowchart to our knowledge. Updated README.
 
 ## Issues & Troubleshooting
 - Running into issues with finding the relevant data; thus far, have decided to use PlanetTerp. Looking for ways to resolve any potential inaccuracies.
