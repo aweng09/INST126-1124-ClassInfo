@@ -34,6 +34,6 @@ Saving classes occurs by appending their 'call value' (leftmost number in each r
 Please keep in mind that this program is reliant on matching user inputs to internal strings; if the program is malfunctioning, please consider typing your prompted answers exactly as they exist in the instructions. 
 
 ## Acknowledgements
-As of November 25, 2020, we have used these following sources:
+As of December 9th, 2020, we have used these following sources:
 - PlanetTerp
 - The pandas Python Data Analysis library
