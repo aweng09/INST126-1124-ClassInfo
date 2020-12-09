@@ -22,7 +22,11 @@ Saving classes occurs by appending their 'call value' (leftmost number in each r
 ### November 30th
 - Implemented the while-loop for running the program continuously until it is manually quit by the user. Continued to collect relevant data necessary for actual implementation; ran into issues with finding data for pass rates, but figured out workaround w/ calculations (taking the pass rate from the most graded professor and taking the grade letters less than a C, adding them up, and subtracting from 100).
 ### December 1st
-- Finished the save_courses function and reconciled the flowchart to our knowledge. Updated README.
+- Finished the save_courses function and reconciled the flowchart to our knowledge.
+### December 8th
+- Gathered a large sample of data sufficient to reasonably test constraints of our program.
+### December 9th
+- Finalized the try-except loops that catch ValueErrors vis-à-vis the inability to convert strings into integers when searching for pass rates and average semester grades. Updated the flowchart to reflect this.
 
 ## Issues & Troubleshooting
 - Running into issues with finding the relevant data; thus far, have decided to use PlanetTerp. Looking for ways to resolve any potential inaccuracies.
