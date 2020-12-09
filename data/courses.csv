@@ -1,0 +1,41 @@
+Course_#,Name,Average_Semester_Grade,Pass_Rate,Professor,Professor_Rating,Format
+201,Introduction to Information Science,89,N/A,Sauter,93,Online
+126,Introduction to Programming for Information Science,85,N/A,Piety,70,Online
+311,Information Organization,85,83,Byers,95,Online
+311,Information Organization,87,90,Hawkins,97,Blended
+314,Statistics for Information Science,85,92,Brown,90,In-Person
+326,Object-Oriented Programming for Information Science,80,85,Dustin,89,Blended
+327,Database Design and Modeling,88,96,N/A,N/A,Online
+123,Databases for All,93,N/A,Duffy,86,Online
+152,"""Fake Checking"": Battling Misinformation and Disinformation in the Real World",88,N/A,Gorham-Oscilowski,92,Online
+154,Apollo at 50,83,N/A,Oard,60,Online
+155,Social Networking,88,N/A,Golbeck,70,Online
+208A,Special Topics in Information Studies; HOW NASA SEES EARTH,86,N/A,Skakun,N/A,Online
+208M,Special Topics in Information Studies; Academic Peer Mentor Experience in Information Science,95,N/A,TBA,N/A,TBA
+309,Independent Study in Information Science,89,93,Chan,100,TBA
+311,Information Organization,87,96,O'Grady,80,Online
+314,Statistics for Information Science,75,92,Janzen,100,Online
+326,Object-Oriented Programming for Information Science,77,91,Bills,100,Online
+327,Database Design and Modeling,86,95,Duffy,100,Online
+335,"Organizations, Management and Teamwork",80,91,Paletz,100,Online
+346,"Technologies, Infrastructure and Architecture",88,96,Heidenblad,70,Blended
+352,Information User Needs and Assessment,92,96,Gammons,100,Blended
+354,Decision-Making for Information Science,85,96,Weaver,60,Blended
+362,User-Centered Design,94,99,,100,Online
+366,"Privacy, Security and Ethics for Big Data",86,95,Vitak,100,Online
+377,Dynamic Web Applications,77,85,Leitch,60,Online
+408D,Special Topics in Information Science; Designing Patient-Centered Technologies,82,75,Choe,N/A,Online
+408F,Special Topics in Information Science; Health Data Analytics,96,82,Sigalo,100,Online
+408K,Special Topics in Information Science; Competitive Business Intelligence,90,73,Shah,80,Online
+408M,Special Topics in Information Science; Design and Implementation of Web Surveys,N/A,N/A,Conrad,N/A,N/A
+408P,Special Topics in Information Science; Introduction to Salesforce,N/A,N/A,TBA,N/A,N/A
+408R,Special Topics in Information Science; Human-Centered Computing in a Global Context,N/A,N/A,Gao,N/A,N/A
+414,Data Science Techniques,75,85,Ravindra-Bhat,93,Online
+441,Information Ethics and Policy,93,85,Sauter,100,Online
+443,Tools and Methods for Digital Curation,95,85,Marciano,N/A,Online
+447,Data Sources and Manipulation,71,85,Ravindra-Bhat,93,Online
+462,Introduction to Data Visualization,89,95,Golbeck,60,Online
+464,Decision Making for Cybersecurity,91,98,Campbell,100,Online
+466,"Technology, Culture, and Society",86,97,Piety,N/A,Online
+467,Practical Hacking for Policy Makers,89,96,Harry,N/A,Online
+490,Integrated Capstone for Information Science,97,100,Rainsford,100,Online
